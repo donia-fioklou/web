@@ -1,0 +1,53 @@
+/****************************/
+/*     05. Registration     */
+/****************************/
+.form-1 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background-color: #ffbd50;
+}
+
+.form-1 h2 {
+	margin-bottom: 1.25rem;
+}
+
+.form-1 p,
+.form-1 .list-unstyled,
+.form-1 .help-block,
+.form-1 .checkbox,
+.form-1 .checkbox a {
+	color: #333;
+}
+
+.form-1 p {
+	margin-bottom: 1.5rem;
+}
+
+.form-1 .list-unstyled .fas {
+	color: #333;
+	font-size: 0.5rem;
+	line-height: 1.5rem;
+}
+
+.form-1 .list-unstyled .media-body {
+	margin-left: 0.625rem;
+}
+
+.form-1 .form-control-input {
+	border: 1px solid #ffedd0;
+	background-color: #ffedd0;
+}
+
+.form-1 .form-control-input:hover {
+	border: 1px solid #fff;
+}
+
+.form-1 .form-control-submit-button {
+	border: 0.125rem solid #333;
+	background-color: transparent;
+}
+
+.form-1 .form-control-submit-button:hover {
+	border: 0.125rem solid #ffedd0;
+	background-color: #ffedd0;
+}
